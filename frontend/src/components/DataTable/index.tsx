@@ -15,70 +15,70 @@ const DataTable = () => {
         <tbody>
             <tr>
                 <td>22/04/2021</td>
-                <td>Barry Allen</td>
+                <td>Luana Piovani</td>
+                <td>8</td>
+                <td>5</td>
+                <td>15017.00</td>
+            </tr>
+            <tr>
+                <td>22/04/2021</td>
+                <td>Mia Khalifa</td>
                 <td>34</td>
                 <td>25</td>
                 <td>15017.00</td>
             </tr>
             <tr>
                 <td>22/04/2021</td>
-                <td>Barry Allen</td>
+                <td>Juliana Paes</td>
                 <td>34</td>
                 <td>25</td>
                 <td>15017.00</td>
             </tr>
             <tr>
                 <td>22/04/2021</td>
-                <td>Barry Allen</td>
+                <td>Fernanda Lima</td>
                 <td>34</td>
                 <td>25</td>
                 <td>15017.00</td>
             </tr>
             <tr>
                 <td>22/04/2021</td>
-                <td>Barry Allen</td>
+                <td>Carol dias</td>
                 <td>34</td>
                 <td>25</td>
                 <td>15017.00</td>
             </tr>
             <tr>
                 <td>22/04/2021</td>
-                <td>Barry Allen</td>
+                <td>Anitta</td>
                 <td>34</td>
                 <td>25</td>
                 <td>15017.00</td>
             </tr>
             <tr>
                 <td>22/04/2021</td>
-                <td>Barry Allen</td>
+                <td>Brunna Marquezine</td>
+                <td>10</td>
+                <td>2</td>
+                <td>15017.00</td>
+            </tr>
+            <tr>
+                <td>22/04/2021</td>
+                <td>Carla Diaz</td>
                 <td>34</td>
                 <td>25</td>
                 <td>15017.00</td>
             </tr>
             <tr>
                 <td>22/04/2021</td>
-                <td>Barry Allen</td>
+                <td>Giulia</td>
                 <td>34</td>
                 <td>25</td>
                 <td>15017.00</td>
             </tr>
             <tr>
                 <td>22/04/2021</td>
-                <td>Barry Allen</td>
-                <td>34</td>
-                <td>25</td>
-                <td>15017.00</td>
-            </tr>
-            <tr>
-                <td>22/04/2021</td>
-                <td>Barry Allen</td>
-                <td>34</td>
-                <td>25</td>
-                <td>15017.00</td>
-            </tr>
-            <tr>
-                <td>22/04/2021</td>
-                <td>Barry Allen</td>
+                <td>Aline Riscado</td>
                 <td>34</td>
                 <td>25</td>
                 <td>15017.00</td>

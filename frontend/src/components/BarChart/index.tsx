@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import axios from 'axios';
+import axios from "axios";
 import Chart from 'react-apexcharts';
 import { SaleSucess } from 'types/sale';
 import { round } from 'Utils/format';
